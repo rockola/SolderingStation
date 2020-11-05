@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "solderstation_v1_6")(type "KiCad")(uri "$(KIPRJMOD)/solderstation_v1_6.pretty")(options "")(descr ""))
+)

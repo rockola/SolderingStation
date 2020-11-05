@@ -1,0 +1,18 @@
+(module "MW_11X5MM" (layer "F.Cu") (tedit 0)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp b8701314-0634-457f-aed3-df0ddbb814a6)
+  )
+  (fp_text value "MW_LOGO" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp b4c231ae-382b-4ef5-a0f0-2be1142e8b45)
+  )
+  (fp_line (start 0 0) (end 2.54 -3.81) (layer "F.Cu") (width 0.8128) (tstamp 233ea83a-8d10-4b8d-b646-c05cabe62a4a))
+  (fp_line (start 2.867906 -1.912968) (end 2.54 -3.81) (layer "F.Cu") (width 0.8128) (tstamp 44cffb8f-f4a7-4ecd-a9fa-f19d4b0530b8))
+  (fp_line (start 4.445 0) (end 7.292093 -1.897031) (layer "F.Cu") (width 0.8128) (tstamp 56a6fe61-dd96-41d6-9e82-65ed3ec179f9))
+  (fp_line (start 10.16 -3.81) (end 7.62 0) (layer "F.Cu") (width 0.8128) (tstamp 6b4a59a9-44bf-4b7a-bd1e-6835fba8fdfe))
+  (fp_line (start 5.715 -3.81) (end 2.867906 -1.912968) (layer "F.Cu") (width 0.8128) (tstamp 86d6a62a-0605-4a30-8f9b-36d427dc3314))
+  (fp_line (start 6.985 -3.81) (end 4.445 0) (layer "F.Cu") (width 0.8128) (tstamp ba44c760-2756-4e7c-8623-49e498648595))
+  (fp_line (start 3.175 0) (end 5.715 -3.81) (layer "F.Cu") (width 0.8128) (tstamp cea4ccb0-3c10-42a5-bf65-a431450f12c3))
+  (fp_line (start 7.292093 -1.897031) (end 7.62 0) (layer "F.Cu") (width 0.8128) (tstamp e0f6f339-339f-46c4-a258-67df2285b0d3))
+)

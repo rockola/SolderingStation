@@ -1,0 +1,5 @@
+10:23:20: Unsupported Eagle layer 'tTest' (37), converted to Dwgs.User layer
+10:23:20: Unsupported Eagle layer 'tTest' (37), converted to Dwgs.User layer
+10:23:20: Unsupported Eagle layer 'tTest' (37), converted to Dwgs.User layer
+10:23:20: Unsupported Eagle layer 'tTest' (37), converted to Dwgs.User layer
+10:23:20: Unsupported Eagle layer 'bRestrict' (42), converted to Dwgs.User layer
