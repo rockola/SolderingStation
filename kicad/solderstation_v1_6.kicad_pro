@@ -370,6 +370,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "9f743d25-3a90-4245-9dfe-36c3215c952a",
+      "solderstation_v1_6_0"
+    ]
+  ],
   "text_variables": {}
 }
